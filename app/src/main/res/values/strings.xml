@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Sary Assessment</string>
+  <string name="store_name">بقالة الأمانة</string>
+  <string name="subscribe">اشترك الآن</string>
+  <string name="search_hint">ابحث عن اللي ناقصك</string>
+  <string name="internet_error">جهازك غير متصل بالإنترنت، يرجى التحقق من اتصالك</string>
+  <string name="generic_error">يوجد خطأ ما يمنع الحصول على البيانات، حاول في وقت لاحق</string>
+  <string name="try_again">حاول مجدداً</string>
+</resources>
