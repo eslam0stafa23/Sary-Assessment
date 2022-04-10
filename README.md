@@ -10,7 +10,7 @@ This project needs Android Studio 4.0.0 or above with Android Gradle plugin 7.0.
 
 It's recommended to open it using <B>Android Studio Artic Fox</B>.
 
-And you can download the APK file [here](https://raw.githubusercontent.com/eslam0stafa23/Sary-Assessment/master/app/build/outputs/apk/debug/Sary_Assessment.apk)
+And you can download the APK file [here](https://raw.githubusercontent.com/eslam0stafa23/Sary-Assessment/master/apk/Sary_Assessment.apk)
 
 
 ## Architecture
